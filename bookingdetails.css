@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 1%;
+    font-family: sans-serif;
+}
+ul{
+    padding-top: 10px;
+    text-decoration: none;
+    background-color: skyblue;
+    color: #6262ea;
+    width: 150px;
+    text-align: center;
+    height: 196px;
+    float: left;
+}
+table {
+    border-collapse: collapse;
+    
+    margin-left: 165px;
+}
+ td {
+    border: 1px solid black;
+    /* margin: 0.5px; */
+    padding-top: 2px;
+    padding-left: 2px;
+    padding-right: 9px;
+}
+.confirm{
+    background-color: green;
+   border: none;
+}
+.delivered{
+    
+    background-color: red;
+    border: none;
+}
+
+.one{
+    background-color: green;
+    
+}
+h3{
+    margin-bottom: 23px;
+    margin-left: 165px;
+}
